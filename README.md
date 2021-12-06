@@ -1,5 +1,3 @@
-![Project PROJECT-XTENDED](https://github.com/Project-Xtended/docs/raw/master/Xtended-banner.png)
--------------------------------------------------------------------------------------------------------
 **X-Tensions Features:** 
 -----------------------------
 
