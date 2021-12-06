@@ -164,3 +164,24 @@
 * Status bar left padding
 * Status bar right padding
 </details>
+
+**Extra features in Settings:** 
+--------------------------------
+<details>
+<summary><b>Network and internet</b></summary>
+
+* Wi-Fi
+  * Wi-Fi prefrences
+     * Turn off Wi-Fi automatically
+</details>
+<details>
+<summary><b>Connected devices</b></summary>
+
+* Bluetooth timeout
+</details>
+<details>
+<summary><b>Sound</b></summary>
+
+* Link ring & notification volumes
+* Increase ring volume
+</details>
