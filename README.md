@@ -182,4 +182,5 @@
 
 * Link ring & notification volumes
 * Increase ring volume
+* Multisim ringtone selection
 </details>
